@@ -130,6 +130,10 @@ h2 {
     left: 87%;
 }
 
+.key.backspace[data-key="32"] {
+    display: none;
+}
+
 .playing {
     transform: scale(.95);
     border-color: #028ae9;
