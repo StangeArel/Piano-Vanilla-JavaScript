@@ -4,6 +4,11 @@ Ein einfaches virtuelles Piano, das mit der Tastatur gespielt werden kann. Beim 
 
 ---
 
+## ❤️ Persönlicher Hintergrund
+P.S.: Dieses Projekt habe ich für ein 3-jähriges Kind entwickelt, damit es seinem Papa zum Geburtstag selbst ein kleines Lied auf dem virtuellen Klavier vorspielen kann. 🎁🎶🎂❤️
+
+---
+
 ## 🧠 Projektidee
 
 Ziel war es, ein interaktives Piano mit **HTML**, **CSS** und **JavaScript** (ohne Frameworks) zu entwickeln. Das Piano reagiert auf Tastendrücke mit passenden Audioausgaben und optischen Effekten.
@@ -50,4 +55,4 @@ A, W, S, E, D, F, T, G, Z, H, U, J, K, O, L, P, Ö, Backspace
 git clone https://github.com/DeinBenutzername/js-piano.git
 
 # Öffne die Datei im Browser
-index.html
+index.html```
