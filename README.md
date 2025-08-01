@@ -51,9 +51,3 @@ git clone https://github.com/DeinBenutzername/js-piano.git
 
 # Öffne die Datei im Browser
 index.html
-
----
-
-## P.S.: Dieses Projekt habe ich für ein 3-jähriges Kind erstellt, damit es seinem Papa zum Geburtstag selbst ein kleines Lied auf dem virtuellen Klavier vorspielen kann. 🎁🎶🎂❤️
-
----
