@@ -55,4 +55,4 @@ A, W, S, E, D, F, T, G, Z, H, U, J, K, O, L, P, Ö, Backspace
 git clone https://github.com/DeinBenutzername/js-piano.git
 
 # Öffne die Datei im Browser
-index.html```
+index.html
